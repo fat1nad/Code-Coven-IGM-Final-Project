@@ -7,7 +7,13 @@ A game about the quest for solitude.
 
     Pending
 
-## Attributions
+## The Team
+
+* Alice Florence
+* Georgie Grace
+* Fatima Nadeem
+
+## Other attributions
 
     Pending
 
