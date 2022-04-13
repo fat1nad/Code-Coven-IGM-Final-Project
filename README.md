@@ -1,5 +1,5 @@
 # Code Coven IGM Final Project
-As part of Code Coven's Intro to Game Making with Unreal program.
+As part of Code Coven's _Intro to Game Making with Unreal_ program.
 
 A game about the quest for solitude.
 
