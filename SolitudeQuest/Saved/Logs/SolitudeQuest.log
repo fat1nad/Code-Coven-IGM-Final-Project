@@ -4124,3 +4124,198 @@ An asset already exists at the import location: /Game/SocialLevel/Anims/Talking
 [2022.04.18-16.52.41:239][499]SourceControl: Commited [main 9942643] Added some people to the social level.
 [2022.04.18-16.52.41:273][500]AssetCheck: New page: Asset Save: Solitude2
 [2022.04.18-16.52.41:273][500]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.18-16.53.38:167][269]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Code Coven/Assets/SocialLevel/Offensive Idle_2.fbx)
+[2022.04.18-16.53.38:175][269]LogFbx: Loading FBX Scene from D:/Code Coven/Assets/SocialLevel/Offensive Idle_2.fbx
+[2022.04.18-16.53.38:210][269]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.18-16.53.51:283][269]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(0) Hips
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(1) Spine
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(2) Spine1
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(3) Spine2
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(4) Neck
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(5) Head
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(8) LeftArm
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(10) LeftHand
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.04.18-16.53.51:295][269]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(31) RightShoulder
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(32) RightArm
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(33) RightForeArm
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(34) RightHand
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(56) LeftLeg
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(57) LeftFoot
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(61) RightLeg
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(62) RightFoot
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(63) RightToeBase
+[2022.04.18-16.53.51:296][269]LogFbx: SortedLinks :(64) RightToe_End
+[2022.04.18-16.53.51:297][269]LogFbx: Parsing AnimStack mixamo.com
+[2022.04.18-16.53.51:985][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SocialLevel/Anims/Offensive_Idle_2.Offensive_Idle_2
+[2022.04.18-16.53.51:985][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SocialLevel/Anims/Offensive_Idle_2.Offensive_Idle_2
+[2022.04.18-16.53.54:117][495]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Louise)
+[2022.04.18-16.53.56:144][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Social1)
+[2022.04.18-16.53.57:872][933]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (James)
+[2022.04.18-16.53.59:775][156]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Adam)
+[2022.04.18-16.54.13:479][747]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.18-16.54.13:490][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-16.54.13:490][747]PIE: New page: PIE session: Solitude2 (18 Apr 2022, 18:54:13)
+[2022.04.18-16.54.13:526][747]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Solitude2
+[2022.04.18-16.54.13:564][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037910s)
+[2022.04.18-16.54.13:565][747]LogAIModule: Creating AISystem for world Solitude2
+[2022.04.18-16.54.13:566][747]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2022.04.18-16.54.13:566][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Solitude2.Solitude2 to /Game/Maps/UEDPIE_0_Solitude2.Solitude2 (0.039366s)
+[2022.04.18-16.54.13:571][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.04.18-16.54.13:574][747]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.18-16.54.13:574][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.18-16.54.13:574][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.18-16.54.13:574][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.18-16.54.13:574][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.18-16.54.13:574][747]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.18-16.54.13:574][747]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.18-16.54.13:574][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.18-16.54.13:574][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.18-16.54.13:574][747]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.18-16.54.13:574][747]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.18-16.54.13:574][747]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.18-16.54.13:574][747]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.18-16.54.13:579][747]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-16.54.13:580][747]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-16.54.13:588][747]LogAudioMixer: Display: Using Audio Device LG HDR 4K (NVIDIA High Definition Audio)
+[2022.04.18-16.54.13:588][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.18-16.54.13:588][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.18-16.54.13:588][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.18-16.54.13:588][747]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.18-16.54.13:588][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.18-16.54.13:588][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.18-16.54.13:590][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.18-16.54.13:590][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.18-16.54.13:590][747]LogInit: FAudioDevice initialized.
+[2022.04.18-16.54.13:590][747]LogAudio: Display: Audio Device (ID: 5) registered with world 'Solitude2'.
+[2022.04.18-16.54.13:598][747]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.18-16.54.13:611][747]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Solitude2.Solitude2 up for play (max tick rate 0) at 2022.04.18-17.54.13
+[2022.04.18-16.54.13:612][747]LogWorld: Bringing up level for play took: 0.014196
+[2022.04.18-16.54.13:613][747]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.04.18-16.54.13:614][747]PIE: Server logged in
+[2022.04.18-16.54.13:615][747]PIE: Play in editor total start time 0.13 seconds.
+[2022.04.18-16.54.23:827][968]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.04.18-16.54.24:535][ 53]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God4_2
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.18-16.54.24:535][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.18-16.54.24:535][ 53]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.18-16.54.36:111][442]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.18-16.54.37:060][556]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God3_5
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.18-16.54.37:060][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.18-16.54.37:060][556]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.18-16.55.00:011][310]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=4.96 Y=-16.33 Z=0.00 Location: X=-8530.16 Y=1333.97 Z=2698.43 Normal: X=0.77 Y=0.64 Z=0.00 PenetrationDepth:0.580 Actor:Megan_Giant Component:SkeletalMeshComponent0 BoneName:RightArm (0 other events since notify)
+[2022.04.18-16.55.24:376][233]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.18-16.55.25:326][347]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God2_2
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.18-16.55.25:326][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.18-16.55.25:326][347]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.18-16.55.26:851][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-16.55.26:851][526]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Solitude2
+[2022.04.18-16.55.26:851][526]LogWorld: UWorld::CleanupWorld for Solitude2, bSessionEnded=true, bCleanupResources=true
+[2022.04.18-16.55.26:854][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-16.55.26:864][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-16.55.26:878][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.18-16.55.26:884][526]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.18-16.55.26:884][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-16.55.26:886][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.18-16.55.26:887][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-16.55.26:893][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.18-16.55.27:022][527]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.04.18-16.55.28:719][700]LogSlate: Window 'Message Log' being destroyed
+[2022.04.18-16.55.28:724][700]LogSlate: Window 'Message Log' being destroyed
+[2022.04.18-16.55.30:254][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.18-16.55.30:258][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.18-16.55.30:488][864]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2BE465D784B6B2C67442C0AA8341EBB2B.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.18-16.55.30:566][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2_BuiltData" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset" SILENT=true
+[2022.04.18-16.55.30:617][864]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2_BuiltData62B7C94C4810C7812FB35E8F65A91A14.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset'
+[2022.04.18-16.55.30:624][864]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.18-16.55.30:624][864]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Solitude2_BuiltData.Solitude2_BuiltData
+[2022.04.18-16.55.30:624][864]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:011][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.18-16.55.40:220][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.18-16.55.40:225][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.04.18-16.55.40:453][915]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2FE1515484D349850BC4A6F85D797B4EA.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.18-16.55.40:461][915]LogFileHelpers: Saving map 'Solitude2' took 0.241
+[2022.04.18-16.55.46:995][915]LogSlate: Window 'Submit Files' being destroyed
+[2022.04.18-16.55.47:515][915]LogSourceControl: commit successful: [main cdef32e] Anim test
+[2022.04.18-16.55.47:559][915]SourceControl: [main cdef32e] Anim test
+[2022.04.18-16.55.47:559][915]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.04.18-16.55.47:564][915]SourceControl: Commited [main cdef32e] Anim test.
+[2022.04.18-16.55.47:607][916]AssetCheck: New page: Asset Save: Solitude2
+[2022.04.18-16.55.47:607][916]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
