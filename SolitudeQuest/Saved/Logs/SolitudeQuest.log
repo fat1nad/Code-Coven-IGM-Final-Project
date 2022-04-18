@@ -4319,3 +4319,43 @@ An asset already exists at the import location: /Game/SocialLevel/Anims/Talking
 [2022.04.18-16.55.47:564][915]SourceControl: Commited [main cdef32e] Anim test.
 [2022.04.18-16.55.47:607][916]AssetCheck: New page: Asset Save: Solitude2
 [2022.04.18-16.55.47:607][916]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.18-17.00.12:575][290]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{68815b7b-51c9-4956-942b-216a11158fb9}.
+[2022.04.18-17.00.12:575][290]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.18-17.00.12:585][290]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-17.00.12:585][290]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-17.00.13:912][294]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.18-17.00.14:754][294]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-17.00.14:754][294]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-17.00.14:774][295]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.18-17.00.14:779][295]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-17.00.14:779][295]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-17.01.46:541][570]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.18-17.01.46:546][570]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.18-17.01.46:546][570]LogAudioMixer: Display: 1: FrontRight
+[2022.04.18-17.05.40:043][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.04.18-17.05.40:045][270]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Solitude2' took 0.006
+[2022.04.18-17.05.40:045][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SocialLevel/Others/Leonard] ([1] browsable assets)...
+[2022.04.18-17.05.40:060][270]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/SocialLevel/Others/Leonard.Leonard]
+[2022.04.18-17.05.40:060][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/SocialLevel/Others/Leonard]
+[2022.04.18-17.05.40:123][270]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Leonard_Auto243E7DC4C43E9DFB93A94CD9C27FA7C60.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Autosaves/Game/SocialLevel/Others/Leonard_Auto2.uasset'
+[2022.04.18-17.05.40:124][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SocialLevel/Others/Leonard_PhysicsAsset] ([1] browsable assets)...
+[2022.04.18-17.05.40:135][270]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/SocialLevel/Others/Leonard_PhysicsAsset.Leonard_PhysicsAsset]
+[2022.04.18-17.05.40:135][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/SocialLevel/Others/Leonard_PhysicsAsset]
+[2022.04.18-17.05.40:144][270]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Leonard_PhysicsAsset_Auto2370B4CCC469A2CEBCE1CC3A27C986F46.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Autosaves/Game/SocialLevel/Others/Leonard_PhysicsAsset_Auto2.uasset'
+[2022.04.18-17.05.40:144][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SocialLevel/Others/Louise] ([1] browsable assets)...
+[2022.04.18-17.05.40:155][270]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/SocialLevel/Others/Louise.Louise]
+[2022.04.18-17.05.40:155][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/SocialLevel/Others/Louise]
+[2022.04.18-17.05.40:211][270]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Louise_Auto2E1BB578C45F41E07FF9B1386813CB90F.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Autosaves/Game/SocialLevel/Others/Louise_Auto2.uasset'
+[2022.04.18-17.05.40:212][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SocialLevel/Others/Louise_PhysicsAsset] ([1] browsable assets)...
+[2022.04.18-17.05.40:222][270]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/SocialLevel/Others/Louise_PhysicsAsset.Louise_PhysicsAsset]
+[2022.04.18-17.05.40:222][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/SocialLevel/Others/Louise_PhysicsAsset]
+[2022.04.18-17.05.40:231][270]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Louise_PhysicsAsset_Auto21726E7CC4F2B04A1B54DFD9799BE1E06.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Autosaves/Game/SocialLevel/Others/Louise_PhysicsAsset_Auto2.uasset'
+[2022.04.18-17.05.40:232][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SocialLevel/Others/Sophie] ([1] browsable assets)...
+[2022.04.18-17.05.40:247][270]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/SocialLevel/Others/Sophie.Sophie]
+[2022.04.18-17.05.40:247][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/SocialLevel/Others/Sophie]
+[2022.04.18-17.05.40:309][270]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Sophie_Auto2095C2DCB40658876592FD092A61F0159.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Autosaves/Game/SocialLevel/Others/Sophie_Auto2.uasset'
+[2022.04.18-17.05.40:310][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SocialLevel/Others/Sophie_PhysicsAsset] ([1] browsable assets)...
+[2022.04.18-17.05.40:324][270]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/SocialLevel/Others/Sophie_PhysicsAsset.Sophie_PhysicsAsset]
+[2022.04.18-17.05.40:324][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/SocialLevel/Others/Sophie_PhysicsAsset]
+[2022.04.18-17.05.40:333][270]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Sophie_PhysicsAsset_Auto29AFD6BE7407DE615F1D395A56186F8CC.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Autosaves/Game/SocialLevel/Others/Sophie_PhysicsAsset_Auto2.uasset'
+[2022.04.18-17.05.40:334][270]LogFileHelpers: Auto-saving content packages took 0.289
