@@ -939,3 +939,123 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.21-10.30.10:085][275]SourceControl: Commited [main 8ca1b3e] Trying again, god give me strength.
 [2022.04.21-10.30.10:125][276]AssetCheck: New page: Asset Save: WBP_EndScreen
 [2022.04.21-10.30.10:125][276]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/WBP_EndScreen.WBP_EndScreen
+[2022.04.21-10.58.47:505][311]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.21-10.58.50:848][678]LogEditorViewport: Clicking on Actor (LMB): BP_God_C (BP_God3)
+[2022.04.21-10.59.03:825][198]Cmd: DELETE
+[2022.04.21-10.59.03:825][198]Cmd: ACTOR DELETE
+[2022.04.21-10.59.03:836][198]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.04.21-10.59.03:855][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.04.21-10.59.03:859][198]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.04.21-10.59.11:219][ 70]Cmd: DELETE
+[2022.04.21-10.59.11:219][ 70]Cmd: ACTOR DELETE
+[2022.04.21-10.59.11:230][ 70]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.04.21-10.59.11:245][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.21-10.59.11:248][ 70]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.04.21-10.59.16:469][692]Cmd: DELETE
+[2022.04.21-10.59.16:469][692]Cmd: ACTOR DELETE
+[2022.04.21-10.59.16:480][692]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.04.21-10.59.16:495][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.04.21-10.59.16:498][692]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.04.21-10.59.29:703][269]Cmd: DELETE
+[2022.04.21-10.59.29:703][269]Cmd: ACTOR DELETE
+[2022.04.21-10.59.29:714][269]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.04.21-10.59.29:729][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.04.21-10.59.29:733][269]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.04.21-10.59.34:435][829]LogEditorViewport: Clicking on Actor (LMB): BP_God_C (BP_God3)
+[2022.04.21-10.59.35:596][963]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.21-10.59.36:699][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_God_C (BP_God3)
+[2022.04.21-10.59.37:344][151]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (God2_Label)
+[2022.04.21-10.59.42:280][731]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (God2_Label)
+[2022.04.21-10.59.42:391][741]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (NewTextRenderComponent)
+[2022.04.21-10.59.44:996][ 41]Cmd: DELETE
+[2022.04.21-10.59.44:996][ 41]Cmd: ACTOR DELETE
+[2022.04.21-10.59.47:004][277]Cmd: DELETE
+[2022.04.21-10.59.47:004][277]Cmd: ACTOR DELETE
+[2022.04.21-10.59.48:383][442]LogEditorViewport: Clicking on Actor (LMB): BP_God_C (BP_God3)
+[2022.04.21-10.59.49:085][522]LogEditorViewport: Clicking on Actor (LMB): BP_God_C (BP_God3)
+[2022.04.21-10.59.49:703][594]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (God2_Label)
+[2022.04.21-10.59.51:364][784]Cmd: DELETE
+[2022.04.21-10.59.51:364][784]Cmd: ACTOR DELETE
+[2022.04.21-10.59.51:374][784]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.04.21-10.59.51:390][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.21-10.59.51:393][784]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.04.21-10.59.57:911][558]Cmd: DELETE
+[2022.04.21-10.59.57:912][558]Cmd: ACTOR DELETE
+[2022.04.21-10.59.57:922][558]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.04.21-10.59.57:937][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.21-10.59.57:940][558]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.04.21-11.00.06:479][572]Cmd: DELETE
+[2022.04.21-11.00.06:479][572]Cmd: ACTOR DELETE
+[2022.04.21-11.00.06:490][572]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.04.21-11.00.06:505][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.04.21-11.00.06:508][572]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.04.21-11.00.13:339][385]Cmd: DELETE
+[2022.04.21-11.00.13:339][385]Cmd: ACTOR DELETE
+[2022.04.21-11.00.13:349][385]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.04.21-11.00.13:365][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.04.21-11.00.13:368][385]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.04.21-11.00.19:637][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-11.00.19:652][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.21-11.00.19:907][112]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude248F423A9472B2B81070D299AE65B5FC5.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-11.00.19:976][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2_BuiltData" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset" SILENT=true
+[2022.04.21-11.00.20:588][112]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2_BuiltData71DA88334B883919F29B058055E11F06.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset'
+[2022.04.21-11.00.20:600][112]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-11.00.20:600][112]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Solitude2_BuiltData.Solitude2_BuiltData
+[2022.04.21-11.00.20:600][112]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-11.01.09:847][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-11.01.09:864][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.04.21-11.01.10:120][295]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude279B9F8C246972BCC054A21AC20DF569C.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-11.01.10:193][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2_BuiltData" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset" SILENT=true
+[2022.04.21-11.01.10:470][295]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2_BuiltDataCFD85D024B1BCAF65518CA8F18C2C747.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset'
+[2022.04.21-11.01.10:481][295]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-11.01.10:481][295]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Solitude2_BuiltData.Solitude2_BuiltData
+[2022.04.21-11.01.10:481][295]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-11.01.37:251][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube_Safety)
+[2022.04.21-11.01.41:521][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube_Esteem)
+[2022.04.21-11.01.42:526][901]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.21-11.02.01:563][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-11.02.01:579][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.04.21-11.02.01:826][  4]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2E4F0FFA34432C52CFA0D67870677CD5B.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-11.02.01:891][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2_BuiltData" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset" SILENT=true
+[2022.04.21-11.02.02:164][  4]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2_BuiltDataC6AAB5C0435A0217DF6E5F9576968DB0.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset'
+[2022.04.21-11.02.02:176][  4]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-11.02.02:176][  4]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Solitude2_BuiltData.Solitude2_BuiltData
+[2022.04.21-11.02.02:176][  4]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-11.02.04:046][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.04.21-11.02.07:474][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:474][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:474][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:474][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:474][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:474][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:474][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:474][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:474][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:475][568]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-11.02.07:697][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-11.02.07:712][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.04.21-11.02.07:964][568]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude280BCB82C4F8FC46AE40E08974F101882.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-11.02.07:973][568]LogFileHelpers: Saving map 'Solitude2' took 0.276
+[2022.04.21-11.02.13:453][568]LogSlate: Window 'Submit Files' being destroyed
+[2022.04.21-11.02.13:986][568]LogSourceControl: commit successful: [main 22dc64f] Fixed labels
+[2022.04.21-11.02.14:030][568]SourceControl: [main 22dc64f] Fixed labels
+[2022.04.21-11.02.14:030][568]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.04.21-11.02.14:034][568]SourceControl: Commited [main 22dc64f] Fixed labels.
+[2022.04.21-11.02.14:051][569]AssetCheck: New page: Asset Save: Solitude2
+[2022.04.21-11.02.14:051][569]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
