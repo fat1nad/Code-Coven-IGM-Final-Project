@@ -941,3 +941,755 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.21-12.02.30:202][370]SourceControl: Commited [main 69df7f1] Pushing changes just to check I'm up to date.
 [2022.04.21-12.02.30:217][371]AssetCheck: New page: Asset Save: Solitude2
 [2022.04.21-12.02.30:217][371]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-12.03.41:976][335]Cmd: TRANSACTION UNDO
+[2022.04.21-12.03.41:976][335]LogEditorTransaction: Undo Rotate Actors
+[2022.04.21-12.03.49:099][141]Cmd: TRANSACTION UNDO
+[2022.04.21-12.03.49:099][141]LogEditorTransaction: Undo Rotate Actors
+[2022.04.21-12.04.09:098][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Esteem1)
+[2022.04.21-12.04.10:818][683]Cmd: DELETE
+[2022.04.21-12.04.10:818][683]Cmd: ACTOR DELETE
+[2022.04.21-12.04.10:829][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.21-12.04.10:833][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.04.21-12.04.10:834][683]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.04.21-12.04.11:839][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem6)
+[2022.04.21-12.04.37:446][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem7)
+[2022.04.21-12.04.58:404][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem8)
+[2022.04.21-12.05.21:465][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem8)
+[2022.04.21-12.06.02:491][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem10)
+[2022.04.21-12.06.11:765][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem11)
+[2022.04.21-12.06.28:826][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem10)
+[2022.04.21-12.06.31:201][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem11)
+[2022.04.21-12.06.39:980][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem7)
+[2022.04.21-12.07.05:314][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-12.07.05:319][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.04.21-12.07.05:572][366]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude26247C11E4D83774BB2844DB0B9BB1C34.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-12.07.05:643][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2_BuiltData" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset" SILENT=true
+[2022.04.21-12.07.06:263][366]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2_BuiltData4105A98C4C018D2F27D78787F1F94722.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset'
+[2022.04.21-12.07.06:273][366]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-12.07.06:273][366]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Solitude2_BuiltData.Solitude2_BuiltData
+[2022.04.21-12.07.06:273][366]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-12.07.07:211][471]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.21-12.07.07:223][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.21-12.07.07:224][471]PIE: New page: PIE session: Solitude2 (21 Apr 2022, 14:07:07)
+[2022.04.21-12.07.07:225][471]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.21-12.07.07:226][471]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.21-12.07.07:226][471]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Solitude2
+[2022.04.21-12.07.07:267][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040800s)
+[2022.04.21-12.07.07:268][471]LogAIModule: Creating AISystem for world Solitude2
+[2022.04.21-12.07.07:269][471]LogPlayLevel: PIE: World Init took: (0.001610s)
+[2022.04.21-12.07.07:269][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Solitude2.Solitude2 to /Game/Maps/UEDPIE_0_Solitude2.Solitude2 (0.042601s)
+[2022.04.21-12.07.07:287][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.21-12.07.07:288][471]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.21-12.07.07:288][471]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-12.07.07:288][471]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-12.07.07:288][471]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-12.07.07:288][471]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-12.07.07:288][471]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-12.07.07:288][471]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-12.07.07:288][471]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-12.07.07:288][471]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-12.07.07:288][471]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-12.07.07:288][471]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-12.07.07:288][471]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-12.07.07:288][471]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-12.07.07:291][471]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-12.07.07:292][471]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-12.07.07:298][471]LogAudioMixer: Display: Using Audio Device LG HDR 4K (NVIDIA High Definition Audio)
+[2022.04.21-12.07.07:298][471]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-12.07.07:298][471]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-12.07.07:298][471]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-12.07.07:299][471]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-12.07.07:299][471]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-12.07.07:299][471]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-12.07.07:300][471]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-12.07.07:300][471]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-12.07.07:300][471]LogInit: FAudioDevice initialized.
+[2022.04.21-12.07.07:300][471]LogAudio: Display: Audio Device (ID: 2) registered with world 'Solitude2'.
+[2022.04.21-12.07.07:307][471]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.21-12.07.07:324][471]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Solitude2.Solitude2 up for play (max tick rate 0) at 2022.04.21-13.07.07
+[2022.04.21-12.07.07:326][471]LogWorld: Bringing up level for play took: 0.018352
+[2022.04.21-12.07.07:326][471]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.04.21-12.07.07:329][471]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.04.21-12.07.07:330][471]PIE: Server logged in
+[2022.04.21-12.07.07:331][471]PIE: Play in editor total start time 0.113 seconds.
+[2022.04.21-12.07.24:923][568]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.04.21-12.07.27:067][825]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God4_2
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.21-12.07.27:067][825]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.21-12.07.27:068][825]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.07.40:078][386]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.21-12.07.41:061][504]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God3_5
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.21-12.07.41:061][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.21-12.07.41:061][504]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.08.00:320][815]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.21-12.08.01:460][951]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God2_2
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.21-12.08.01:460][951]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.21-12.08.01:460][951]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.08.21:269][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-12.08.21:269][321]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Solitude2
+[2022.04.21-12.08.21:270][321]LogWorld: UWorld::CleanupWorld for Solitude2, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-12.08.21:274][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-12.08.21:285][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.21-12.08.21:297][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-12.08.21:301][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.21-12.08.21:302][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-12.08.21:303][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-12.08.21:305][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-12.08.21:311][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.04.21-12.08.21:425][321]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.21-12.08.21:432][322]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.21-12.08.21:444][322]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.04.21-12.08.23:646][553]LogSlate: Window 'Message Log' being destroyed
+[2022.04.21-12.08.23:651][553]LogSlate: Window 'Message Log' being destroyed
+[2022.04.21-12.08.26:945][939]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.21-12.08.34:982][809]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Steps_Esteem5)
+[2022.04.21-12.08.36:456][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.04.21-12.08.43:759][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem5)
+[2022.04.21-12.08.55:715][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem6)
+[2022.04.21-12.09.18:172][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem6)
+[2022.04.21-12.09.18:922][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem6)
+[2022.04.21-12.09.19:299][ 70]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.21-12.09.19:776][124]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.21-12.09.20:118][163]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Steps_Esteem6)
+[2022.04.21-12.09.20:912][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem6)
+[2022.04.21-12.09.21:306][299]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.21-12.09.22:392][426]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Esteem_Label)
+[2022.04.21-12.09.24:928][724]Cmd: DELETE
+[2022.04.21-12.09.24:928][724]Cmd: ACTOR DELETE
+[2022.04.21-12.09.24:939][724]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.04.21-12.09.24:943][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.21-12.09.24:945][724]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.04.21-12.09.25:710][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem7)
+[2022.04.21-12.10.03:478][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem9)
+[2022.04.21-12.10.19:887][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem10)
+[2022.04.21-12.10.43:744][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem7)
+[2022.04.21-12.11.08:053][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem9)
+[2022.04.21-12.11.18:694][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem8)
+[2022.04.21-12.11.19:688][367]Cmd: DELETE
+[2022.04.21-12.11.19:688][367]Cmd: ACTOR DELETE
+[2022.04.21-12.11.19:699][367]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.21-12.11.19:703][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.21-12.11.19:704][367]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.04.21-12.11.21:804][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem9)
+[2022.04.21-12.11.36:861][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem11)
+[2022.04.21-12.11.51:546][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem12)
+[2022.04.21-12.12.22:187][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube_Esteem)
+[2022.04.21-12.12.42:621][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem1)
+[2022.04.21-12.13.28:983][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Esteem2)
+[2022.04.21-12.13.29:924][712]Cmd: DELETE
+[2022.04.21-12.13.29:924][712]Cmd: ACTOR DELETE
+[2022.04.21-12.13.29:935][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.21-12.13.29:938][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.21-12.13.29:940][712]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.04.21-12.13.35:199][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem2)
+[2022.04.21-12.14.33:243][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-12.14.33:248][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.21-12.14.33:503][ 14]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2733DAEDA4729AFF14611B6B33DA8908B.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-12.14.33:572][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2_BuiltData" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset" SILENT=true
+[2022.04.21-12.14.33:848][ 14]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2_BuiltData0FE374EE4167E648D075DA939655A490.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset'
+[2022.04.21-12.14.33:858][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-12.14.33:858][ 14]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Solitude2_BuiltData.Solitude2_BuiltData
+[2022.04.21-12.14.33:858][ 14]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-12.14.37:177][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube_Esteem)
+[2022.04.21-12.14.38:066][511]Cmd: DELETE
+[2022.04.21-12.14.38:066][511]Cmd: ACTOR DELETE
+[2022.04.21-12.14.38:077][511]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.21-12.14.38:081][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.21-12.14.38:082][511]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.04.21-12.15.11:937][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps1_God4)
+[2022.04.21-12.15.41:336][ 33]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.21-12.16.44:850][395]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.21-12.16.57:617][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps2_God7)
+[2022.04.21-12.18.08:917][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps2_God13)
+[2022.04.21-12.18.13:809][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps2_God12)
+[2022.04.21-12.18.28:150][613]Cmd: TRANSACTION UNDO
+[2022.04.21-12.18.28:150][613]LogEditorTransaction: Undo Rotate Actors
+[2022.04.21-12.18.43:005][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps2_God12)
+[2022.04.21-12.19.27:506][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps2_God11)
+[2022.04.21-12.19.45:196][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps2_God10)
+[2022.04.21-12.20.26:050][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps2_God9)
+[2022.04.21-12.20.46:924][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps1_God7)
+[2022.04.21-12.21.05:881][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps2_God9)
+[2022.04.21-12.21.35:092][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-12.21.35:096][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.04.21-12.21.35:345][643]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2F8DB3C69439407DC8C5A549591854EE1.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-12.21.35:420][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2_BuiltData" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset" SILENT=true
+[2022.04.21-12.21.35:692][643]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2_BuiltData29269EF947AEE4616C4982A5EF446CC6.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset'
+[2022.04.21-12.21.35:702][643]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-12.21.35:702][643]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Solitude2_BuiltData.Solitude2_BuiltData
+[2022.04.21-12.21.35:702][643]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-12.21.36:151][696]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.21-12.21.36:163][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.21-12.21.36:164][696]PIE: New page: PIE session: Solitude2 (21 Apr 2022, 14:21:36)
+[2022.04.21-12.21.36:190][696]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Solitude2
+[2022.04.21-12.21.36:232][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041951s)
+[2022.04.21-12.21.36:233][696]LogAIModule: Creating AISystem for world Solitude2
+[2022.04.21-12.21.36:233][696]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2022.04.21-12.21.36:233][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Solitude2.Solitude2 to /Game/Maps/UEDPIE_0_Solitude2.Solitude2 (0.043158s)
+[2022.04.21-12.21.36:279][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.21-12.21.36:280][696]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.21-12.21.36:280][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-12.21.36:280][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-12.21.36:280][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-12.21.36:280][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-12.21.36:280][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-12.21.36:280][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-12.21.36:280][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-12.21.36:280][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-12.21.36:280][696]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-12.21.36:280][696]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-12.21.36:280][696]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-12.21.36:280][696]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-12.21.36:284][696]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-12.21.36:284][696]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-12.21.36:291][696]LogAudioMixer: Display: Using Audio Device LG HDR 4K (NVIDIA High Definition Audio)
+[2022.04.21-12.21.36:291][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-12.21.36:291][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-12.21.36:291][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-12.21.36:291][696]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-12.21.36:291][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-12.21.36:292][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-12.21.36:293][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-12.21.36:293][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-12.21.36:293][696]LogInit: FAudioDevice initialized.
+[2022.04.21-12.21.36:293][696]LogAudio: Display: Audio Device (ID: 3) registered with world 'Solitude2'.
+[2022.04.21-12.21.36:302][696]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.21-12.21.36:319][696]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Solitude2.Solitude2 up for play (max tick rate 0) at 2022.04.21-13.21.36
+[2022.04.21-12.21.36:321][696]LogWorld: Bringing up level for play took: 0.018310
+[2022.04.21-12.21.36:321][696]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.04.21-12.21.36:324][696]PIE: Server logged in
+[2022.04.21-12.21.36:324][696]PIE: Play in editor total start time 0.167 seconds.
+[2022.04.21-12.21.46:461][906]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.04.21-12.21.47:611][ 44]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God4_2
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.21-12.21.47:611][ 44]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.21-12.21.47:611][ 44]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.22.00:053][537]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.21-12.22.01:036][655]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God3_5
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.21-12.22.01:037][655]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.21-12.22.01:037][655]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.22.16:855][553]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.21-12.22.17:822][669]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God2_2
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.21-12.22.17:822][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.21-12.22.17:822][669]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.22.34:764][700]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.21-12.22.35:914][838]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.22.37:564][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-12.22.37:564][ 32]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Solitude2
+[2022.04.21-12.22.37:565][ 32]LogWorld: UWorld::CleanupWorld for Solitude2, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-12.22.37:568][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-12.22.37:578][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.21-12.22.37:591][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-12.22.37:595][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-12.22.37:596][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-12.22.37:597][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-12.22.37:603][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.04.21-12.22.37:722][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.04.21-12.22.40:519][331]LogSlate: Window 'Message Log' being destroyed
+[2022.04.21-12.22.40:524][331]LogSlate: Window 'Message Log' being destroyed
+[2022.04.21-12.24.27:997][879]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SC_Level4_Worries1)
+[2022.04.21-12.24.37:345][984]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SC_Level4_Worries2)
+[2022.04.21-12.24.39:320][212]Cmd: TRANSACTION UNDO
+[2022.04.21-12.24.39:320][212]LogEditorTransaction: Undo Clicking on Actors
+[2022.04.21-12.24.40:159][264]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SC_Level4_Worries2)
+[2022.04.21-12.32.36:614][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.04.21-12.32.36:616][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Autosaves/Game/Maps/Solitude2_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.21-12.32.36:859][582]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2_Auto1CAA278DE40B8A0E08081FFA683416A35.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Autosaves/Game/Maps/Solitude2_Auto1.umap'
+[2022.04.21-12.32.36:862][582]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Solitude2' took 0.252
+[2022.04.21-12.32.36:862][582]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.252
+[2022.04.21-12.33.53:730][145]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SC_BackgroundSound8)
+[2022.04.21-12.33.57:487][588]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SC_Level4_Worries5)
+[2022.04.21-12.34.05:725][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps2_God10)
+[2022.04.21-12.34.13:463][483]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SC_Level4_Worries5)
+[2022.04.21-12.34.48:568][406]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SC_BackgroundSound7)
+[2022.04.21-12.35.07:088][592]Cmd: DELETE
+[2022.04.21-12.35.07:088][592]Cmd: ACTOR DELETE
+[2022.04.21-12.35.07:100][592]LogEditorActor: Deleted Actor: AmbientSound
+[2022.04.21-12.35.07:104][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.04.21-12.35.07:105][592]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2022.04.21-12.35.18:835][902]Cmd: DELETE
+[2022.04.21-12.35.18:835][902]Cmd: ACTOR DELETE
+[2022.04.21-12.35.18:845][902]LogEditorActor: Deleted Actor: AmbientSound
+[2022.04.21-12.35.18:849][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.21-12.35.18:850][902]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.04.21-12.35.19:501][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem3)
+[2022.04.21-12.35.20:501][ 92]Cmd: DELETE
+[2022.04.21-12.35.20:501][ 92]Cmd: ACTOR DELETE
+[2022.04.21-12.35.20:512][ 92]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.21-12.35.20:515][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.21-12.35.20:517][ 92]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.04.21-12.35.20:927][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Steps_Esteem4)
+[2022.04.21-12.35.21:036][147]Cmd: DELETE
+[2022.04.21-12.35.21:036][147]Cmd: ACTOR DELETE
+[2022.04.21-12.35.21:047][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.21-12.35.21:051][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.21-12.35.21:051][147]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.04.21-12.35.40:994][473]Cmd: DELETE
+[2022.04.21-12.35.40:994][473]Cmd: ACTOR DELETE
+[2022.04.21-12.35.41:004][473]LogEditorActor: Deleted Actor: AmbientSound
+[2022.04.21-12.35.41:008][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.04.21-12.35.41:010][473]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.04.21-12.42.37:241][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.21-12.42.37:243][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Autosaves/Game/Maps/Solitude2_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.21-12.42.37:500][888]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2_Auto2F32CC5ED445B8853014E7AAA6E78C8D4.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Autosaves/Game/Maps/Solitude2_Auto2.umap'
+[2022.04.21-12.42.37:502][888]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Solitude2' took 0.265
+[2022.04.21-12.42.37:502][888]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.265
+[2022.04.21-12.42.55:598][858]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.21-12.42.55:616][858]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.21-12.43.07:006][225]LogContentBrowser: Attempting asset rename: NewFolder -> Level4_Encourage
+[2022.04.21-12.43.07:006][225]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.21-12.43.28:024][761]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Code Coven/Assets/Group Game/Barks/Esteem/Encouragement/achieved.wav)
+[2022.04.21-12.43.28:095][761]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Code Coven/Assets/Group Game/Barks/Esteem/Encouragement/be okay.wav)
+[2022.04.21-12.43.28:161][761]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Code Coven/Assets/Group Game/Barks/Esteem/Encouragement/confident.wav)
+[2022.04.21-12.43.28:230][761]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Code Coven/Assets/Group Game/Barks/Esteem/Encouragement/doBetter.wav)
+[2022.04.21-12.43.28:298][761]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Code Coven/Assets/Group Game/Barks/Esteem/Encouragement/friends.wav)
+[2022.04.21-12.43.28:362][761]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Code Coven/Assets/Group Game/Barks/Esteem/Encouragement/good at things.wav)
+[2022.04.21-12.43.28:428][761]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Code Coven/Assets/Group Game/Barks/Esteem/Encouragement/kind.wav)
+[2022.04.21-12.43.28:496][761]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Code Coven/Assets/Group Game/Barks/Esteem/Encouragement/learning.wav)
+[2022.04.21-12.43.28:563][761]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Code Coven/Assets/Group Game/Barks/Esteem/Encouragement/okay.wav)
+[2022.04.21-12.43.28:629][761]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Code Coven/Assets/Group Game/Barks/Esteem/Encouragement/supprt.wav)
+[2022.04.21-12.43.28:696][761]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Code Coven/Assets/Group Game/Barks/Esteem/Encouragement/trying.wav)
+[2022.04.21-12.43.28:763][761]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Code Coven/Assets/Group Game/Barks/Esteem/Encouragement/weaknesses.wav)
+[2022.04.21-12.43.46:958][851]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2022.04.21-12.43.47:001][851]LogContentBrowser: Creating deferred item: NewSoundCue
+[2022.04.21-12.43.55:737][899]LogContentBrowser: Attempting asset rename: NewSoundCue -> SC_Level4_Encourage
+[2022.04.21-12.43.55:796][899]LogContentBrowser: End creating deferred item NewSoundCue
+[2022.04.21-12.43.57:402][ 89]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/SoundCues/SC_Level4_Encourage.SC_Level4_Encourage
+[2022.04.21-12.43.57:912][ 89]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.21-12.44.00:189][319]LogSlate: Window 'SC_Level4_Encourage' being destroyed
+[2022.04.21-12.44.01:249][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level4_Encourage" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Encourage.uasset" SILENT=true
+[2022.04.21-12.44.01:251][429]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level4_Encourage4178265B48CE334CC81C3C85E3E83AA3.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Encourage.uasset'
+[2022.04.21-12.44.01:372][429]AssetCheck: New page: Asset Save: SC_Level4_Encourage
+[2022.04.21-12.44.01:372][429]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level4_Encourage.SC_Level4_Encourage
+[2022.04.21-12.44.09:702][375]LogRenderer: Reallocating scene render targets to support 1720x1208 Format 10 NumSamples 1 (Frame:206772).
+[2022.04.21-12.44.25:353][193]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1
+[2022.04.21-12.44.30:061][738]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1:SoundCueGraph_0.SoundCueGraphNode_18 or SoundCueGraphNode /Game/Sound/SoundCues/SC_Level2_Worries1.SC_Level2_Worries1:SoundCueGraph_0.SoundCueGraphNode_18
+[2022.04.21-12.44.30:061][738]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1:SoundCueGraph_0.SoundCueGraphNode_18 or SoundCueGraphNode /Game/Sound/SoundCues/SC_Level3_Worries1.SC_Level3_Worries1:SoundCueGraph_0.SoundCueGraphNode_18
+[2022.04.21-12.44.30:061][738]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1:SoundCueGraph_0.SoundCueGraphNode_18 or SoundCueGraphNode /Game/Sound/SoundCues/SC_Level4_Worries1.SC_Level4_Worries1:SoundCueGraph_0.SoundCueGraphNode_18
+[2022.04.21-12.44.30:061][738]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1:SoundCueGraph_0.SoundCueGraphNode_18 or SoundCueGraphNode /Game/Sound/SoundCues/SC_Level5_Worries1.SC_Level5_Worries1:SoundCueGraph_0.SoundCueGraphNode_18
+[2022.04.21-12.44.30:061][738]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1:SoundCueGraph_0.SoundCueGraphNode_18 or SoundCueGraphNode /Game/Sound/SoundCues/SC_Level4_Encourage.SC_Level4_Encourage:SoundCueGraph_0.SoundCueGraphNode_18
+[2022.04.21-12.44.30:061][738]LogProperty: Warning: ObjectProperty /Script/Engine.SoundNode:ChildNodes.ChildNodes: unresolved reference to 'SoundNodeModulator'"SoundCueGraphNode_18.SoundNodeModulator_0"''
+[2022.04.21-12.44.30:062][738]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1:SoundCueGraph_0.SoundCueGraphNode_19 or SoundCueGraphNode /Game/Sound/SoundCues/SC_Level2_Worries1.SC_Level2_Worries1:SoundCueGraph_0.SoundCueGraphNode_19
+[2022.04.21-12.44.30:062][738]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1:SoundCueGraph_0.SoundCueGraphNode_19 or SoundCueGraphNode /Game/Sound/SoundCues/SC_Level3_Worries1.SC_Level3_Worries1:SoundCueGraph_0.SoundCueGraphNode_19
+[2022.04.21-12.44.30:062][738]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1:SoundCueGraph_0.SoundCueGraphNode_19 or SoundCueGraphNode /Game/Sound/SoundCues/SC_Level4_Worries1.SC_Level4_Worries1:SoundCueGraph_0.SoundCueGraphNode_19
+[2022.04.21-12.44.30:062][738]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1:SoundCueGraph_0.SoundCueGraphNode_19 or SoundCueGraphNode /Game/Sound/SoundCues/SC_Level5_Worries1.SC_Level5_Worries1:SoundCueGraph_0.SoundCueGraphNode_19
+[2022.04.21-12.44.30:062][738]LogUObjectHash: Warning: Ambiguous path search, could be SoundCueGraphNode /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1:SoundCueGraph_0.SoundCueGraphNode_19 or SoundCueGraphNode /Game/Sound/SoundCues/SC_Level4_Encourage.SC_Level4_Encourage:SoundCueGraph_0.SoundCueGraphNode_19
+[2022.04.21-12.44.30:062][738]LogProperty: Warning: ObjectProperty /Script/Engine.SoundNode:ChildNodes.ChildNodes: unresolved reference to 'SoundNodeDelay'"SoundCueGraphNode_19.SoundNodeDelay_0"''
+[2022.04.21-12.44.33:748][175]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sound/SoundCues/SC_Level4_Encourage.SC_Level4_Encourage was zero and has changed. Consider manually Re-saving the asset
+[2022.04.21-12.44.35:200][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level4_Encourage" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Encourage.uasset" SILENT=true
+[2022.04.21-12.44.35:204][331]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level4_EncourageF14072764400E30123477FA842A905D7.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Encourage.uasset'
+[2022.04.21-12.44.35:211][331]AssetCheck: New page: Asset Save: SC_Level4_Encourage
+[2022.04.21-12.44.35:211][331]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level4_Encourage.SC_Level4_Encourage
+[2022.04.21-12.44.36:034][430]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave okay...
+[2022.04.21-12.44.36:034][430]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Level4_Encourage/okay.okay will be modified from 40 to 40.
+[2022.04.21-12.44.36:050][430]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 234160 while cooking SoundWave /Game/Sound/Level4_Encourage/okay.okay.
+[2022.04.21-12.44.37:863][648]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave kind...
+[2022.04.21-12.44.37:863][648]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Level4_Encourage/kind.kind will be modified from 40 to 40.
+[2022.04.21-12.44.37:882][648]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 271132 while cooking SoundWave /Game/Sound/Level4_Encourage/kind.kind.
+[2022.04.21-12.44.40:004][903]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave confident...
+[2022.04.21-12.44.40:004][903]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Level4_Encourage/confident.confident will be modified from 40 to 40.
+[2022.04.21-12.44.40:028][903]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 382048 while cooking SoundWave /Game/Sound/Level4_Encourage/confident.confident.
+[2022.04.21-12.44.42:541][202]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave trying...
+[2022.04.21-12.44.42:541][202]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Level4_Encourage/trying.trying will be modified from 40 to 40.
+[2022.04.21-12.44.42:562][202]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 314264 while cooking SoundWave /Game/Sound/Level4_Encourage/trying.trying.
+[2022.04.21-12.44.55:126][684]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave be_okay...
+[2022.04.21-12.44.55:126][684]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Level4_Encourage/be_okay.be_okay will be modified from 40 to 40.
+[2022.04.21-12.44.55:142][684]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 234156 while cooking SoundWave /Game/Sound/Level4_Encourage/be_okay.be_okay.
+[2022.04.21-12.44.56:575][851]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave friends...
+[2022.04.21-12.44.56:575][851]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Level4_Encourage/friends.friends will be modified from 40 to 40.
+[2022.04.21-12.44.56:592][851]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 240320 while cooking SoundWave /Game/Sound/Level4_Encourage/friends.friends.
+[2022.04.21-12.44.57:880][  6]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave learning...
+[2022.04.21-12.44.57:880][  6]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Level4_Encourage/learning.learning will be modified from 40 to 40.
+[2022.04.21-12.44.57:900][  6]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 295776 while cooking SoundWave /Game/Sound/Level4_Encourage/learning.learning.
+[2022.04.21-12.45.04:882][836]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave doBetter...
+[2022.04.21-12.45.04:882][836]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Level4_Encourage/doBetter.doBetter will be modified from 40 to 40.
+[2022.04.21-12.45.04:911][836]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 449828 while cooking SoundWave /Game/Sound/Level4_Encourage/doBetter.doBetter.
+[2022.04.21-12.45.07:642][159]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave good_at_things...
+[2022.04.21-12.45.07:642][159]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Level4_Encourage/good_at_things.good_at_things will be modified from 40 to 40.
+[2022.04.21-12.45.07:661][159]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 289620 while cooking SoundWave /Game/Sound/Level4_Encourage/good_at_things.good_at_things.
+[2022.04.21-12.45.09:482][378]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave supprt...
+[2022.04.21-12.45.09:482][378]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Level4_Encourage/supprt.supprt will be modified from 40 to 40.
+[2022.04.21-12.45.09:501][378]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 277292 while cooking SoundWave /Game/Sound/Level4_Encourage/supprt.supprt.
+[2022.04.21-12.45.11:447][612]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave weaknesses...
+[2022.04.21-12.45.11:447][612]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Level4_Encourage/weaknesses.weaknesses will be modified from 40 to 40.
+[2022.04.21-12.45.11:472][612]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 400532 while cooking SoundWave /Game/Sound/Level4_Encourage/weaknesses.weaknesses.
+[2022.04.21-12.45.13:827][895]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave achieved...
+[2022.04.21-12.45.13:827][895]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Level4_Encourage/achieved.achieved will be modified from 40 to 40.
+[2022.04.21-12.45.13:849][895]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 314268 while cooking SoundWave /Game/Sound/Level4_Encourage/achieved.achieved.
+[2022.04.21-12.45.20:317][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level4_Encourage" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Encourage.uasset" SILENT=true
+[2022.04.21-12.45.20:321][646]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level4_EncourageB7217049433F5972A37AF6920C79FD51.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Encourage.uasset'
+[2022.04.21-12.45.20:329][646]AssetCheck: New page: Asset Save: SC_Level4_Encourage
+[2022.04.21-12.45.20:329][646]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level4_Encourage.SC_Level4_Encourage
+[2022.04.21-12.45.23:516][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.04.21-12.45.23:683][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-12.45.23:687][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.04.21-12.45.23:938][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2E04B3357482A77D210956A8BE978E3DE.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-12.45.23:947][990]LogFileHelpers: Saving map 'Solitude2' took 0.264
+[2022.04.21-12.45.23:947][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level1_Worries1" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level1_Worries1.uasset" SILENT=true
+[2022.04.21-12.45.23:951][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level1_Worries1622E152C457E4F85FBDF19836B36D558.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level1_Worries1.uasset'
+[2022.04.21-12.45.23:954][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/achieved" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/achieved.uasset" SILENT=true
+[2022.04.21-12.45.23:957][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/achieved60DCDE1046D2B61D6880B2959C623DB1.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/achieved.uasset'
+[2022.04.21-12.45.24:068][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/be_okay" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/be_okay.uasset" SILENT=true
+[2022.04.21-12.45.24:071][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/be_okayC2AA2B3C4E3A55EF06EDE482C4AF7C26.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/be_okay.uasset'
+[2022.04.21-12.45.24:188][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/confident" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/confident.uasset" SILENT=true
+[2022.04.21-12.45.24:190][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/confidentD504ABBE4543475BC7467DAC66FF4F40.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/confident.uasset'
+[2022.04.21-12.45.24:313][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/doBetter" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/doBetter.uasset" SILENT=true
+[2022.04.21-12.45.24:316][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/doBetter30F6CD784C74A55E9954BFB50A5FA282.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/doBetter.uasset'
+[2022.04.21-12.45.24:448][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/friends" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/friends.uasset" SILENT=true
+[2022.04.21-12.45.24:451][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/friendsA45BBDC54C0AF6B39BE962ABB055B1D7.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/friends.uasset'
+[2022.04.21-12.45.24:580][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/good_at_things" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/good_at_things.uasset" SILENT=true
+[2022.04.21-12.45.24:583][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/good_at_thingsC6320B804003231B2AD288BE1C8BDADC.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/good_at_things.uasset'
+[2022.04.21-12.45.24:714][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/kind" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/kind.uasset" SILENT=true
+[2022.04.21-12.45.24:716][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/kind040DB13B4A867A4770431F8906BAFFA4.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/kind.uasset'
+[2022.04.21-12.45.24:857][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/learning" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/learning.uasset" SILENT=true
+[2022.04.21-12.45.24:860][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/learning52AF2B324AC24549A9D4D1BDAC31188E.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/learning.uasset'
+[2022.04.21-12.45.25:009][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/okay" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/okay.uasset" SILENT=true
+[2022.04.21-12.45.25:012][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/okay90471350477D0B0D7D39B5907CD98820.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/okay.uasset'
+[2022.04.21-12.45.25:147][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/supprt" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/supprt.uasset" SILENT=true
+[2022.04.21-12.45.25:150][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/supprt7E784BD24B04EBCB6D263D8F980CB580.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/supprt.uasset'
+[2022.04.21-12.45.25:282][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/trying" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/trying.uasset" SILENT=true
+[2022.04.21-12.45.25:285][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/tryingC034DD6E4EA8C40425870990884ACC35.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/trying.uasset'
+[2022.04.21-12.45.25:414][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/weaknesses" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/weaknesses.uasset" SILENT=true
+[2022.04.21-12.45.25:416][990]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/weaknesses3D86530E4A666B6A6C55F0B8FC698BCD.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/weaknesses.uasset'
+[2022.04.21-12.45.25:564][990]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/weaknesses.weaknesses
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/trying.trying
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/supprt.supprt
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/okay.okay
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/learning.learning
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/kind.kind
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/good_at_things.good_at_things
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/friends.friends
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/doBetter.doBetter
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/confident.confident
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/be_okay.be_okay
+[2022.04.21-12.45.25:564][990]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/achieved.achieved
+[2022.04.21-12.46.57:833][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-12.46.57:838][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.04.21-12.46.58:089][730]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2251411284759265243DC5BBB98D89D0A.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-12.46.58:162][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2_BuiltData" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset" SILENT=true
+[2022.04.21-12.46.58:434][730]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2_BuiltData2674B2754021D116BBFC97BBEE4717D0.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset'
+[2022.04.21-12.46.58:443][730]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-12.46.58:443][730]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Solitude2_BuiltData.Solitude2_BuiltData
+[2022.04.21-12.46.58:443][730]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-12.47.00:438][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.21-12.47.01:262][ 23]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.21-12.47.01:274][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.21-12.47.01:274][ 23]PIE: New page: PIE session: Solitude2 (21 Apr 2022, 14:47:01)
+[2022.04.21-12.47.01:301][ 23]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Solitude2
+[2022.04.21-12.47.01:343][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042387s)
+[2022.04.21-12.47.01:344][ 23]LogAIModule: Creating AISystem for world Solitude2
+[2022.04.21-12.47.01:345][ 23]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2022.04.21-12.47.01:345][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Solitude2.Solitude2 to /Game/Maps/UEDPIE_0_Solitude2.Solitude2 (0.043608s)
+[2022.04.21-12.47.01:350][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.04.21-12.47.01:351][ 23]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.21-12.47.01:351][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-12.47.01:351][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-12.47.01:351][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-12.47.01:351][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-12.47.01:351][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-12.47.01:351][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-12.47.01:351][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-12.47.01:351][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-12.47.01:351][ 23]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-12.47.01:351][ 23]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-12.47.01:351][ 23]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-12.47.01:351][ 23]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-12.47.01:355][ 23]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-12.47.01:355][ 23]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-12.47.01:363][ 23]LogAudioMixer: Display: Using Audio Device LG HDR 4K (NVIDIA High Definition Audio)
+[2022.04.21-12.47.01:363][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-12.47.01:363][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-12.47.01:363][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-12.47.01:364][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-12.47.01:364][ 23]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-12.47.01:364][ 23]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-12.47.01:365][ 23]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-12.47.01:365][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-12.47.01:365][ 23]LogInit: FAudioDevice initialized.
+[2022.04.21-12.47.01:365][ 23]LogAudio: Display: Audio Device (ID: 4) registered with world 'Solitude2'.
+[2022.04.21-12.47.01:372][ 23]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.21-12.47.01:388][ 23]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Solitude2.Solitude2 up for play (max tick rate 0) at 2022.04.21-13.47.01
+[2022.04.21-12.47.01:390][ 23]LogWorld: Bringing up level for play took: 0.017819
+[2022.04.21-12.47.01:390][ 23]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.04.21-12.47.01:393][ 23]PIE: Server logged in
+[2022.04.21-12.47.01:393][ 23]PIE: Play in editor total start time 0.124 seconds.
+[2022.04.21-12.47.11:660][249]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.04.21-12.47.12:585][360]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God4_2
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.21-12.47.12:585][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.21-12.47.12:585][360]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.47.25:878][955]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.21-12.47.26:728][ 57]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God3_5
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.21-12.47.26:728][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.21-12.47.26:728][ 57]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.47.43:697][ 93]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.21-12.47.44:505][190]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God2_2
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.21-12.47.44:505][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.21-12.47.44:505][190]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.48.12:177][508]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.21-12.48.13:327][646]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.48.14:415][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-12.48.14:415][773]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Solitude2
+[2022.04.21-12.48.14:416][773]LogWorld: UWorld::CleanupWorld for Solitude2, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-12.48.14:420][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-12.48.14:427][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.21-12.48.14:445][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-12.48.14:451][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-12.48.14:451][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-12.48.14:452][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-12.48.14:458][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.04.21-12.48.14:567][774]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.04.21-12.48.16:452][966]LogSlate: Window 'Message Log' being destroyed
+[2022.04.21-12.48.16:457][966]LogSlate: Window 'Message Log' being destroyed
+[2022.04.21-12.48.41:813][708]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SC_Level4_Worries2)
+[2022.04.21-12.48.42:592][795]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SC_BackgroundSound8)
+[2022.04.21-12.48.44:383][  4]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (SC_Level4_Worries2)
+[2022.04.21-12.49.09:565][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level4_Encourage" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Encourage.uasset" SILENT=true
+[2022.04.21-12.49.09:570][988]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level4_Encourage4C4306764F855AFF5597A581E7316010.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Encourage.uasset'
+[2022.04.21-12.49.09:579][988]AssetCheck: New page: Asset Save: SC_Level4_Encourage
+[2022.04.21-12.49.09:579][988]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level4_Encourage.SC_Level4_Encourage
+[2022.04.21-12.49.25:065][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level1_Worries1" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level1_Worries1.uasset" SILENT=true
+[2022.04.21-12.49.25:070][807]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level1_Worries117942E0542D1C87539C8DA995E8E362B.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level1_Worries1.uasset'
+[2022.04.21-12.49.25:077][807]AssetCheck: New page: Asset Save: SC_Level1_Worries1
+[2022.04.21-12.49.25:077][807]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1
+[2022.04.21-12.49.28:966][239]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/SoundCues/SC_Level2_Worries1.SC_Level2_Worries1
+[2022.04.21-12.49.38:949][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level2_Worries1" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level2_Worries1.uasset" SILENT=true
+[2022.04.21-12.49.38:953][392]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level2_Worries1AB4DF96443D5B62AD3895EAC1CC5B5F5.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level2_Worries1.uasset'
+[2022.04.21-12.49.38:960][392]AssetCheck: New page: Asset Save: SC_Level2_Worries1
+[2022.04.21-12.49.38:960][392]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level2_Worries1.SC_Level2_Worries1
+[2022.04.21-12.49.41:083][610]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/SoundCues/SC_Level3_Worries1.SC_Level3_Worries1
+[2022.04.21-12.49.49:765][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level3_Worries1" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level3_Worries1.uasset" SILENT=true
+[2022.04.21-12.49.49:769][604]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level3_Worries1F7A056384ED46E719757289DFB389437.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level3_Worries1.uasset'
+[2022.04.21-12.49.49:778][604]AssetCheck: New page: Asset Save: SC_Level3_Worries1
+[2022.04.21-12.49.49:778][604]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level3_Worries1.SC_Level3_Worries1
+[2022.04.21-12.49.52:915][936]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/SoundCues/SC_Level4_Worries1.SC_Level4_Worries1
+[2022.04.21-12.50.01:399][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level4_Worries1" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Worries1.uasset" SILENT=true
+[2022.04.21-12.50.01:404][912]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level4_Worries1BB5F3F9949850CCFDE86C7971D78048A.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Worries1.uasset'
+[2022.04.21-12.50.01:411][912]AssetCheck: New page: Asset Save: SC_Level4_Worries1
+[2022.04.21-12.50.01:411][912]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level4_Worries1.SC_Level4_Worries1
+[2022.04.21-12.50.04:806][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.04.21-12.50.04:898][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-12.50.04:902][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.04.21-12.50.05:149][262]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude27BE64F604134652593A814B176727433.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-12.50.05:157][262]LogFileHelpers: Saving map 'Solitude2' took 0.259
+[2022.04.21-12.50.05:166][262]AssetCheck: New page: Asset Save: Solitude2
+[2022.04.21-12.50.05:166][262]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-12.50.07:033][468]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/SoundCues/SC_Level5_Worries1.SC_Level5_Worries1
+[2022.04.21-12.50.19:331][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level5_Worries1" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level5_Worries1.uasset" SILENT=true
+[2022.04.21-12.50.19:336][883]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level5_Worries18965D7E54470CA136A45879FD4FF2AA5.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level5_Worries1.uasset'
+[2022.04.21-12.50.19:349][883]AssetCheck: New page: Asset Save: SC_Level5_Worries1
+[2022.04.21-12.50.19:349][883]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level5_Worries1.SC_Level5_Worries1
+[2022.04.21-12.50.47:482][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-12.50.47:487][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.21-12.50.47:733][549]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude23BADEA80404D34C0DB4913ACCDF6AC78.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-12.50.47:811][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2_BuiltData" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset" SILENT=true
+[2022.04.21-12.50.48:090][549]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2_BuiltData9A28AECB4EDD829C22BC329E17F0E291.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset'
+[2022.04.21-12.50.48:100][549]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-12.50.48:100][549]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Solitude2_BuiltData.Solitude2_BuiltData
+[2022.04.21-12.50.48:100][549]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-12.50.48:340][570]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.21-12.50.48:352][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.21-12.50.48:352][570]PIE: New page: PIE session: Solitude2 (21 Apr 2022, 14:50:48)
+[2022.04.21-12.50.48:352][570]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Solitude2
+[2022.04.21-12.50.48:393][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041643s)
+[2022.04.21-12.50.48:394][570]LogAIModule: Creating AISystem for world Solitude2
+[2022.04.21-12.50.48:394][570]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2022.04.21-12.50.48:394][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Solitude2.Solitude2 to /Game/Maps/UEDPIE_0_Solitude2.Solitude2 (0.042860s)
+[2022.04.21-12.50.48:399][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.04.21-12.50.48:399][570]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.21-12.50.48:399][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-12.50.48:399][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-12.50.48:400][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-12.50.48:400][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-12.50.48:400][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-12.50.48:400][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-12.50.48:400][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-12.50.48:400][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-12.50.48:400][570]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-12.50.48:400][570]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-12.50.48:400][570]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-12.50.48:400][570]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-12.50.48:405][570]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-12.50.48:405][570]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-12.50.48:412][570]LogAudioMixer: Display: Using Audio Device LG HDR 4K (NVIDIA High Definition Audio)
+[2022.04.21-12.50.48:413][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-12.50.48:413][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-12.50.48:413][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-12.50.48:413][570]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-12.50.48:413][570]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-12.50.48:413][570]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-12.50.48:414][570]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-12.50.48:414][570]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-12.50.48:414][570]LogInit: FAudioDevice initialized.
+[2022.04.21-12.50.48:414][570]LogAudio: Display: Audio Device (ID: 5) registered with world 'Solitude2'.
+[2022.04.21-12.50.48:425][570]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.21-12.50.48:442][570]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Solitude2.Solitude2 up for play (max tick rate 0) at 2022.04.21-13.50.48
+[2022.04.21-12.50.48:444][570]LogWorld: Bringing up level for play took: 0.018311
+[2022.04.21-12.50.48:444][570]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.04.21-12.50.48:446][570]PIE: Server logged in
+[2022.04.21-12.50.48:447][570]PIE: Play in editor total start time 0.1 seconds.
+[2022.04.21-12.51.16:643][947]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.04.21-12.51.17:251][ 20]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God4_2
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.21-12.51.17:251][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.21-12.51.17:251][ 20]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.51.44:325][267]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.21-12.51.45:217][374]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God3_5
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.21-12.51.45:217][374]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.21-12.51.45:217][374]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.52.18:694][391]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.21-12.52.19:853][530]LogScript: Warning: Accessed None trying to read property Dopple to Kill
+	BP_God_C /Game/Maps/UEDPIE_0_Solitude2.Solitude2:PersistentLevel.BP_God2_2
+	Function /Game/BluePrints/BP_God.BP_God_C:ExecuteUbergraph_BP_God:0017
+[2022.04.21-12.52.19:853][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Dopple to Kill". Blueprint:  BP_God Function:  Execute Ubergraph BP God Graph:  EventGraph Node:  DestroyActor
+[2022.04.21-12.52.19:854][530]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.52.56:491][924]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.21-12.52.57:465][ 41]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.53.44:463][679]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.21-12.53.45:488][802]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.21-12.53.57:904][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-12.53.57:904][288]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Solitude2
+[2022.04.21-12.53.57:904][288]LogWorld: UWorld::CleanupWorld for Solitude2, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-12.53.57:908][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-12.53.57:915][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.21-12.53.57:941][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-12.53.57:945][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-12.53.57:947][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-12.53.57:948][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-12.53.57:954][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.21-12.53.58:088][289]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.04.21-12.54.00:029][485]LogSlate: Window 'Message Log' being destroyed
+[2022.04.21-12.54.00:035][485]LogSlate: Window 'Message Log' being destroyed
+[2022.04.21-12.54.03:847][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-12.54.03:851][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.04.21-12.54.04:099][905]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude29A31F41E4378B80B5C7D5BB26292DB70.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-12.54.04:177][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2_BuiltData" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset" SILENT=true
+[2022.04.21-12.54.04:453][905]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2_BuiltData0DB502054F141468EF97C48CA22407F1.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2_BuiltData.uasset'
+[2022.04.21-12.54.04:463][905]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-12.54.04:464][905]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Solitude2_BuiltData.Solitude2_BuiltData
+[2022.04.21-12.54.04:464][905]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:314][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/UE4/Code-Coven-IGM-Final-Project'
+[2022.04.21-12.54.07:597][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Solitude2" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.21-12.54.07:601][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.21-12.54.07:856][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/Solitude2F6D2B64345A43D646A98D8A6A1151A13.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Maps/Solitude2.umap'
+[2022.04.21-12.54.07:861][170]LogFileHelpers: Saving map 'Solitude2' took 0.264
+[2022.04.21-12.54.07:861][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/achieved" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/achieved.uasset" SILENT=true
+[2022.04.21-12.54.07:862][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/achieved449257CD4FDD8B17FF4686AB057E2EE6.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/achieved.uasset'
+[2022.04.21-12.54.07:863][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/be_okay" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/be_okay.uasset" SILENT=true
+[2022.04.21-12.54.07:864][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/be_okay37FD22AF438AEFE2DA60C5A794BA50CA.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/be_okay.uasset'
+[2022.04.21-12.54.07:864][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/confident" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/confident.uasset" SILENT=true
+[2022.04.21-12.54.07:865][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/confidentDEA8EF9A43D4877B8EC896833B239424.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/confident.uasset'
+[2022.04.21-12.54.07:866][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/doBetter" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/doBetter.uasset" SILENT=true
+[2022.04.21-12.54.07:867][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/doBetter4E6297DD47523AB060887794296CAF01.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/doBetter.uasset'
+[2022.04.21-12.54.07:867][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/friends" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/friends.uasset" SILENT=true
+[2022.04.21-12.54.07:868][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/friends2E4D883E43DEBCE72EA9B9A45CC22490.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/friends.uasset'
+[2022.04.21-12.54.07:868][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/good_at_things" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/good_at_things.uasset" SILENT=true
+[2022.04.21-12.54.07:869][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/good_at_things64580B98413A2633112586804A922CA8.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/good_at_things.uasset'
+[2022.04.21-12.54.07:870][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/kind" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/kind.uasset" SILENT=true
+[2022.04.21-12.54.07:871][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/kind870FAAC94F727BDE338487B3D5E655EB.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/kind.uasset'
+[2022.04.21-12.54.07:871][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/learning" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/learning.uasset" SILENT=true
+[2022.04.21-12.54.07:872][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/learning63F06D684A488A3B459B2D91B9541BD8.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/learning.uasset'
+[2022.04.21-12.54.07:872][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/okay" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/okay.uasset" SILENT=true
+[2022.04.21-12.54.07:873][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/okay78069BB241AD804E570AA7BA785862D5.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/okay.uasset'
+[2022.04.21-12.54.07:873][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/supprt" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/supprt.uasset" SILENT=true
+[2022.04.21-12.54.07:874][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/supprtA611A35841F08C994EFA8A8C41D6E092.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/supprt.uasset'
+[2022.04.21-12.54.07:875][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/trying" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/trying.uasset" SILENT=true
+[2022.04.21-12.54.07:875][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/trying019FEB0342C10AED15E4ADA6529247DA.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/trying.uasset'
+[2022.04.21-12.54.07:876][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Level4_Encourage/weaknesses" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/weaknesses.uasset" SILENT=true
+[2022.04.21-12.54.07:877][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/weaknessesDF280C164844D4B591B365838C22ECDD.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/Level4_Encourage/weaknesses.uasset'
+[2022.04.21-12.54.07:877][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level1_Worries1" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level1_Worries1.uasset" SILENT=true
+[2022.04.21-12.54.07:880][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level1_Worries18C5CFBB44C95DE806B962AAB4D9E96C1.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level1_Worries1.uasset'
+[2022.04.21-12.54.07:890][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level2_Worries1" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level2_Worries1.uasset" SILENT=true
+[2022.04.21-12.54.07:892][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level2_Worries16B01459440834F7DC1CD3CB5F6E54255.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level2_Worries1.uasset'
+[2022.04.21-12.54.07:893][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level3_Worries1" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level3_Worries1.uasset" SILENT=true
+[2022.04.21-12.54.07:896][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level3_Worries14C14655743A368C1957F8796E020C101.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level3_Worries1.uasset'
+[2022.04.21-12.54.07:896][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level4_Encourage" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Encourage.uasset" SILENT=true
+[2022.04.21-12.54.07:899][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level4_Encourage4FDD1D0F40D828355061EFB614F10534.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Encourage.uasset'
+[2022.04.21-12.54.07:899][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level4_Worries1" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Worries1.uasset" SILENT=true
+[2022.04.21-12.54.07:902][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level4_Worries10E128B5C475331389EA1459401F23084.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Worries1.uasset'
+[2022.04.21-12.54.07:903][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SoundCues/SC_Level5_Worries1" FILE="D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level5_Worries1.uasset" SILENT=true
+[2022.04.21-12.54.07:905][170]LogSavePackage: Moving 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Saved/SC_Level5_Worries18C4A7DBB473F2668CC8EF98769580402.tmp' to 'D:/UE4/Code-Coven-IGM-Final-Project/SolitudeQuest/Content/Sound/SoundCues/SC_Level5_Worries1.uasset'
+[2022.04.21-12.54.19:554][170]LogSlate: Window 'Submit Files' being destroyed
+[2022.04.21-12.54.20:451][170]LogSourceControl: commit successful: [main 02cf396] Added sounds for level 4 and level assets
+[2022.04.21-12.54.20:583][170]SourceControl: [main 02cf396] Added sounds for level 4 and level assets
+[2022.04.21-12.54.20:583][170]SourceControl:  19 files changed, 0 insertions(+), 0 deletions(-)
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/Level4_Encourage/achieved.uasset
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/Level4_Encourage/be_okay.uasset
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/Level4_Encourage/confident.uasset
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/Level4_Encourage/doBetter.uasset
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/Level4_Encourage/friends.uasset
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/Level4_Encourage/good_at_things.uasset
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/Level4_Encourage/kind.uasset
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/Level4_Encourage/learning.uasset
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/Level4_Encourage/okay.uasset
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/Level4_Encourage/supprt.uasset
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/Level4_Encourage/trying.uasset
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/Level4_Encourage/weaknesses.uasset
+[2022.04.21-12.54.20:583][170]SourceControl:  create mode 100644 SolitudeQuest/Content/Sound/SoundCues/SC_Level4_Encourage.uasset
+[2022.04.21-12.54.20:588][170]SourceControl: Commited [main 02cf396] Added sounds for level 4 and level assets.
+[2022.04.21-12.54.20:634][171]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level1_Worries1.SC_Level1_Worries1
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level2_Worries1.SC_Level2_Worries1
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level3_Worries1.SC_Level3_Worries1
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level4_Worries1.SC_Level4_Worries1
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level5_Worries1.SC_Level5_Worries1
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating World /Game/Maps/Solitude2.Solitude2
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundCue /Game/Sound/SoundCues/SC_Level4_Encourage.SC_Level4_Encourage
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/weaknesses.weaknesses
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/trying.trying
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/supprt.supprt
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/okay.okay
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/learning.learning
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/kind.kind
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/good_at_things.good_at_things
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/friends.friends
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/doBetter.doBetter
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/confident.confident
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/be_okay.be_okay
+[2022.04.21-12.54.20:634][171]LogContentValidation: Display: Validating SoundWave /Game/Sound/Level4_Encourage/achieved.achieved
