@@ -3,9 +3,7 @@ _As part of Code Coven's **Intro to Game Making with Unreal** program._
 
 A game about the quest for solitude.
 
-## How To Run
-
-    Pending
+## [Click to Play!](https://croft-f.itch.io/solitude-quest)
 
 ## The Team
 
