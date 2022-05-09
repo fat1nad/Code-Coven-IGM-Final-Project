@@ -1,11 +1,9 @@
-# Code Coven IGM Final Project
+# Solitude Quest
 _As part of Code Coven's **Intro to Game Making with Unreal** program._
 
 A game about the quest for solitude.
 
-## How To Run
-
-    Pending
+## [Latest Build](https://croft-f.itch.io/solitude-quest)
 
 ## The Team
 
