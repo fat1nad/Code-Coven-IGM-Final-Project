@@ -1,5 +1,5 @@
 # Solitude Quest
-_As part of Code Coven's **Intro to Game Making with Unreal** program._
+_As part of Code Coven's [**Intro to Game Making with Unreal**](https://codecoven.co/introduction-to-game-making-with-unreal-engine/) program._
 
 A game about the quest for solitude.
 
